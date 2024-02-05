@@ -1,0 +1,73 @@
+/*Timur Fermand 7979362*/
+body {
+    width: 1000px;
+    max-width: 1000px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    font: 30px 'Times New Roman' serif;
+    text-align: center;
+}
+h1 {
+    color: aqua;
+    font-variant: small-caps;
+}  
+h2 {
+    color: blueviolet;
+    font-variant: small-caps;
+}
+footer div p {
+    color: chartreuse;
+}
+.ClassHeader {
+    border: 5px solid red;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+.ClassFooter {
+    border: 5px solid red;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+main {
+    float: left;
+    clear: left;
+    width: 620px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+aside {
+    float: right;
+    clear: right;
+    width: 290px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+footer {
+    clear: left;
+}
+.img1 {
+    border: 5px solid blue;
+
+}
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: larger;
+}
+aside div ul li {
+    list-style: none;
+    line-height: 1.4;
+}
+aside div ul li > a {
+    text-decoration: none;
+    color: darkgreen;
+}
+a:hover {
+    color: aqua;
+}
